@@ -7,3 +7,5 @@
 4. terraform fmt
 
 5. terraform validate
+
+no push today
